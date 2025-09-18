@@ -1,4 +1,4 @@
-# Proyecto Reto Compartido 🚀
+# Reto Compartido 🚀
 
 Este repositorio contiene un proyecto de un reto compartido en el que hemos trabajado los últimos días.  
 Aún está en una versión inicial, pero ya tiene las bases, la idea es que se continúe con el proyecto.  
